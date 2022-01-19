@@ -1,0 +1,9 @@
+app:
+  static_url: "upload/"
+
+mysql:
+  Host: "127.0.0.1"
+  Port: "3306"
+  Username: "root"
+  Password: "123456"
+  DbName: "chat"
